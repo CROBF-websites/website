@@ -91,4 +91,4 @@ Para más detalles sobre el despliegue del blog, consulta [`Blog/DEPLOYMENT.md`]
 
 Nos esforzamos por compartir contenido valioso, fomentar el aprendizaje y seguir creciendo como equipo.
 
-¡Gracias por ser parte de CROBF! 💙
+¡Gracias por ser parte de CROBF! 💙.
